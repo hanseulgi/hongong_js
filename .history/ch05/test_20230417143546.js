@@ -9,7 +9,6 @@ function sumNum(a,b) {
 console.log(`2부터 4까지의 곱: ${sumNum(2, 4)}`)
 console.log(`1부터 6까지의 곱: ${sumNum(1, 6)}`)
 
-
 console.log(`--------------------------------------`)
 
 
