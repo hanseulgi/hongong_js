@@ -20,4 +20,4 @@ const introObject2 = {
         console.log(innerFunc());
     }
 };
-introObject2.getIntro(); //슬기님의 닉네임은 s입니다.
+introObject2.getIntro(); //상준님의 닉네임은 ray입니다.
